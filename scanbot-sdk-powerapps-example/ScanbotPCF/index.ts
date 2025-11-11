@@ -4,7 +4,7 @@ import * as React from "react";
 
 import * as ReactDOM from "react-dom/client";
 
-export class ScanborSDKPowerAppaComponentExample implements ComponentFramework.StandardControl<IInputs, IOutputs> {
+export class ScanbotPCF implements ComponentFramework.StandardControl<IInputs, IOutputs> {
     /**
      * Empty constructor.
      */
