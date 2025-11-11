@@ -27,7 +27,7 @@ This project is a **PowerApps Component Framework (PCF) control** that integrate
 1. **Clone the repository:**
 
 ```
-[Git Repo](https://github.com/ranwala/ScanbotSDK-PCF-Example.git)
+git clone https://github.com/ranwala/ScanbotSDK-PCF-Example.git
 ```
 
 2. **Install dependencies:**
